@@ -1,7 +1,5 @@
 import tp3
 
-
-
 a = tp3.OrdrDict(cl1 = 12 , cl2 = 34)
 
 print(a)
